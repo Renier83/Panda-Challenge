@@ -80,6 +80,15 @@ In your new DataFrame, create a new column containing the percentage of responde
 
 Sort the new DataFrame in descending order of the percentage of recommenders you just calculated.
 
+![Capture 6PNG](https://user-images.githubusercontent.com/68042445/120900276-05888780-c602-11eb-8085-321c377e7440.PNG)
+
+![Capture7](https://user-images.githubusercontent.com/68042445/120900283-0b7e6880-c602-11eb-9fa2-2aaea53eda2f.PNG)
+
+![Capture8](https://user-images.githubusercontent.com/68042445/120900285-10431c80-c602-11eb-9889-c8331bb477a2.PNG)
+
+
+
+
 Use map and format to make the "% Recommended" column look more presentable.
 
 Finally, export your DataFrame to an Excel file.
